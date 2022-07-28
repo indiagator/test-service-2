@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.code22</groupId>
-    <artifactId>test-service-1</artifactId>
+    <artifactId>test-service-2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>test-service-1</name>
-    <description>test-service-1</description>
+    <name>test-service-2</name>
+    <description>test-service-2</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
@@ -62,7 +62,7 @@
         <repository>
             <id>github</id>
             <name>GitHub indiagator Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/indiagator/test-service-1</url>
+            <url>https://maven.pkg.github.com/indiagator/test-service-2</url>
         </repository>
     </distributionManagement>
 
