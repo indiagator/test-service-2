@@ -1,4 +1,4 @@
-package com.code22.testservice2;
+package com.code22.testservice2.model;
 
 import lombok.Getter;
 import lombok.Setter;
